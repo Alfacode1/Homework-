@@ -1,4 +1,3 @@
-
 PHP
 class Persona {
     private $nombre;
